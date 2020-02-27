@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DiaLoogOpniew</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="str_btn_toast">Raise a Toast</string>
+    <string name="str_btn_simple">Open something simple</string>
+    <string name="str_btn_catch">Catch a flu</string>
+    <string name="str_btn_catchemall">Choose your flu</string>
+    <string name="str_btn_date">Pick a date, any date</string>
+</resources>
